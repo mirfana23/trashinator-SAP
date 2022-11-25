@@ -5,6 +5,20 @@ This is our GitHub repository for MSB481(B)-SAP project
 ![image](https://drive.google.com/uc?export=view&id=1u7GWhxMdGJ3v4QP2b1bVZguEznEXhwqa)
 our project introduction ( please help me to fill this!)
 
+## Getting Started
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install dependencies
+   ```sh
+   pip3 install -r requirements.txt
+   ```
+3. Take a look at the repository structure below
+4. Happy coding!
+
+
 ## Repository Structure
 This is the general structure of our repository
 
