@@ -5,7 +5,8 @@ This is our GitHub repository for MSB481(B)-SAP project
 our project introduction ( please help me to fill this!)
 
 ## Repository Structure
-This is the general explanation on the folder structure:
+### A typical top-level directory layout
+
     .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
@@ -14,3 +15,6 @@ This is the general explanation on the folder structure:
     ├── tools                   # Tools and utilities
     ├── LICENSE
     └── README.md
+
+> Use short lowercase names at least for the top-level files and folders except
+> `LICENSE`, `README.md`
