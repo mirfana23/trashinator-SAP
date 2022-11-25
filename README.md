@@ -30,4 +30,9 @@ This is the code that we use to make and train our model. you can skip this code
 #### convert_model.ipynb
 This is the same code that was previously used in the class. One difference, however, is that we use RGB images (3 channels) instead of greyscale (1 channel). The respective change is explained inside the file.
 
+### aicore-pipelines
+This is the folder for the training process of our AI pipeline in the SAP AI Core.
+
+### models Folder
+The folder consists of the model we trained and used for trash classification, available in three different file formats (h5, tflite, and cc).
 
