@@ -1,6 +1,14 @@
 # trashinator-SAP
 This is our GitHub repository for MSB481(B)-SAP project
 
+<div align="center">
+  <h3 align="center">trashinator-SAP</h3>
+
+  <p align="center">
+    This is our GitHub repository for MSB481(B)-SAP project
+  </p>
+</div>
+
 ## About The Project
 ![image](https://drive.google.com/uc?export=view&id=1u7GWhxMdGJ3v4QP2b1bVZguEznEXhwqa)
 our project introduction ( please help me to fill this!)
