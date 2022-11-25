@@ -5,7 +5,7 @@ This is our GitHub repository for MSB481(B)-SAP project
 our project introduction ( please help me to fill this!)
 
 ## Repository Structure
-This is the general structure of oyur repository
+This is the general structure of our repository
 
     .
     ├── AI                         # folder for the AI implementation code
