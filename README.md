@@ -2,7 +2,7 @@
 This is our GitHub repository for MSB481(B)-SAP project
 
 <div align="center">
-  <h1 align="center">trashinator-SAP</h1>
+  <title align="center">trashinator-SAP</title>
   <p align="center">
     This is our GitHub repository for MSB481(B)-SAP project
   </p>
