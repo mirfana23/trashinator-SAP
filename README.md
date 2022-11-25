@@ -6,6 +6,7 @@ This is our GitHub repository for MSB481(B)-SAP project
 our project introduction ( please help me to fill this!)
 
 ## Getting Started
+To get start, follow the following steps:
 
 1. Clone the repo
    ```sh
