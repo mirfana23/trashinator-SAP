@@ -6,6 +6,7 @@ our project introduction ( please help me to fill this!)
 
 ## Repository Structure
 This is the general structure of oyur repository
+
     .
     ├── AI                         # folder for the AI implementation code
     ├── aicore-pipelines           # folder for the SAP AI Core pipeline
