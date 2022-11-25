@@ -10,7 +10,7 @@ To get started, follow the following steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/mirfana23/trashinator-SAP.git
    ```
 2. Install dependencies
    ```sh
