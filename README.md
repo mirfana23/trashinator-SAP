@@ -37,8 +37,8 @@ This is the general structure of our repository
     .
     ├── ...
     ├── AI                               
-    │   ├── convert_model.ipynb          # Load and stress tests
-    │   └── train_model.ipynb            # Unit tests
+    │   ├── convert_model.ipynb         
+    │   └── train_model.ipynb            
     └── ...
     
 #### train_model.ipynb
