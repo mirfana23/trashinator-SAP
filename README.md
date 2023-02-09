@@ -4,6 +4,7 @@ This is our GitHub repository for MSB481(B)-SAP project
 ## About The Project
 ![image](https://drive.google.com/uc?export=view&id=1u7GWhxMdGJ3v4QP2b1bVZguEznEXhwqa)
 our project introduction ( please help me to fill this!)
+presentation link: https://docs.google.com/presentation/d/1c4A54eIA_2lblo2CZ1LOTQl3LH0gioQTGR2cGC5O4v0/edit?usp=sharing
 
 ## Getting Started
 To get started, follow the following steps:
